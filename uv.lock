@@ -1665,6 +1665,7 @@ dependencies = [
     { name = "langchain-openai" },
     { name = "pypdf" },
     { name = "python-dotenv" },
+    { name = "pyyaml" },
     { name = "ruff" },
     { name = "uvicorn" },
 ]
@@ -1679,6 +1680,7 @@ requires-dist = [
     { name = "langchain-openai", specifier = ">=1.1.10" },
     { name = "pypdf", specifier = ">=6.7.5" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
     { name = "ruff", specifier = ">=0.15.4" },
     { name = "uvicorn", specifier = ">=0.41.0" },
 ]
